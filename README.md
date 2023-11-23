@@ -37,6 +37,39 @@ I'm a seasoned Software Engineer with a knack for crafting powerful REST APIs an
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=gcp&logoColor=white&color=2bbc8a)
 
+
+## 🚀 Technical Expertise
+
+My proficiency lies in:
+
+- **RESTful APIs:** Designing and developing scalable REST APIs that power modern applications.
+
+- **Infrastructure Provisioning:** Embracing DevOps principles to architect and manage resilient infrastructure.
+
+## 😄 Fun Facts
+
+Beyond the lines of code, I bring an infectious sense of humor to the table. I firmly believe that a lighthearted atmosphere is the breeding ground for creativity and productivity.
+
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: [![LinkedIn](https://img.shields.io/badge/linkedin-%23E23237.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-chege-diversify/)
+
+
+[1]: https://twitter.com/jayd8
+[2]: https://github.com/jaydto
+[3]: https://www.linkedin.com/in/john-chege-diversify/
+
+## 📫 Let's Connect
+- Twitter: [@jayt8](twit)
+- LinkedIn: [@john-chege-diversify](https://www.linkedin.com/in/john-chege-diversify/)
+- Github: [@jaydto](https://github.com/jaydto)
+
+Explore my repositories, and feel free to reach out for a chat, collaboration, or even just to share a laugh!
+
 ## &#x1f4c8; GitHub Stats
 
 
