@@ -37,6 +37,26 @@ I'm a seasoned Software Engineer with a knack for crafting powerful REST APIs an
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=gcp&logoColor=white&color=2bbc8a)
 
+
+## 🚀 Technical Expertise
+
+My proficiency lies in:
+
+- **RESTful APIs:** Designing and developing scalable REST APIs that power modern applications.
+
+- **Infrastructure Provisioning:** Embracing DevOps principles to architect and manage resilient infrastructure.
+
+## 😄 Fun Facts
+
+Beyond the lines of code, I bring an infectious sense of humor to the table. I firmly believe that a lighthearted atmosphere is the breeding ground for creativity and productivity.
+
+## 📫 Let's Connect
+- Twitter: [@jayt8](twit)
+- LinkedIn: [@john-chege-diversify](https://www.linkedin.com/in/john-chege-diversify/)
+- Github: [@jaydto](https://github.com/jaydto)
+
+Explore my repositories, and feel free to reach out for a chat, collaboration, or even just to share a laugh!
+
 ## &#x1f4c8; GitHub Stats
 
 
